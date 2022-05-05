@@ -1,52 +1,51 @@
-.gymImg {
-    max-width: 684px;
-    max-height: 448px;
-  }
-  
-  .workTitle {
-    width: 100%;
-    text-align: left;
-    border-bottom: 1px solid #000;
-    line-height: 0.1em;
-    margin: 10px 0 20px;
-  }
-  
-  .sp {
-    padding: 0 10px;
-    background: #fff;
-  }
-  
-  .workCard {
-    width: 369px;
-    height: 435px;
-    background-image: url("image/card1-bg.png");
-    margin: 12px;
-    background-size: cover;
-    padding-top: 160px;
-  }
-  
-  .skill {
-    width: 400px;
-  }
-  
-  .about {
-    max-width: 500px;
-  }
-  
-  .headline {
-    height: 870px;
-    padding-top: 192px;
-  }
-  
-  .headline-d {
-    max-width: 500px;
-  }
-  
-  h2 {
-    max-width: 500px;
-  }
-  
-  .footIcon {
-    filter: invert(70%);
-  }
-  
+.gym-stretch {
+  max-width: 684px;
+  max-height: 448px;
+}
+
+.work-section {
+  width: 100%;
+  text-align: left;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+.workCard {
+  width: 369px;
+  height: 450px;
+  background-image: url("image/card1-bg.png");
+  margin: 12px;
+  background-size: cover;
+  padding-top: 160px;
+}
+
+.sp {
+  padding: 0 10px;
+  background: #fff;
+}
+
+.know-skill {
+  width: 400px;
+}
+
+.about-me {
+  max-width: 500px;
+}
+
+.heading {
+  height: 870px;
+  padding-top: 192px;
+}
+
+.heading-d {
+  max-width: 500px;
+}
+
+h2 {
+  max-width: 500px;
+}
+
+.footer-icons {
+  filter: invert(70%);
+}
